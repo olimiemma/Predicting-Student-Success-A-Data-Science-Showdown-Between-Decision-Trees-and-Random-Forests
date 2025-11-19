@@ -26,7 +26,7 @@ The final selected model, a **Random Forest Classifier**, achieved a **weighted 
 
 ## Project Goal
 
-The primary objective of this project, as part of the DAV 6150 (Module 11) assignment, is to answer a fundamental question in model selection: **Under what circumstances does the added complexity of an ensemble model (Random Forest) provide a significant performance advantage over a simpler, more interpretable model (Decision Tree)?**
+The primary objective of this project is to answer a fundamental question in model selection: **Under what circumstances does the added complexity of an ensemble model (Random Forest) provide a significant performance advantage over a simpler, more interpretable model (Decision Tree)?**
 
 To achieve this, the project systematically:
 -   Performs a deep Exploratory Data Analysis (EDA) to understand data characteristics and relationships.
